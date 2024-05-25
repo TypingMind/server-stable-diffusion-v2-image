@@ -25,7 +25,7 @@
     }
   ],
   "emoji": "🖼️",
-  "title": "Server Stable Diffusion v2 Image",
+  "title": "Stable Diffusion v2 Image",
   "openaiSpec": {
     "name": "server_image_generation_via_stable_diffusion",
     "parameters": {
@@ -58,6 +58,7 @@
     "hasHeaders": true
   },
   "system": true,
+  "isServerPlugin": true,
   "implementationType": "http",
   "outputType": "render_markdown"
 }
