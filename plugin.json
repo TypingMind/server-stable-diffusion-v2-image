@@ -26,7 +26,6 @@
       "defaultValue": 512
     }
   ],
-  "emoji": "🖼️",
   "title": "Stable Diffusion v2 Image",
   "iconURL": "/stable-diffusion.png",
   "openaiSpec": {
