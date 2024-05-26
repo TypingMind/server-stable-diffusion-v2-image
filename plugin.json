@@ -28,6 +28,7 @@
   ],
   "emoji": "🖼️",
   "title": "Stable Diffusion v2 Image",
+  "iconURL": "/stable-diffusion.png",
   "openaiSpec": {
     "name": "server_image_generation_via_stable_diffusion",
     "parameters": {
