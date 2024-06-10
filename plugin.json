@@ -59,8 +59,6 @@
     "hasBody": true,
     "hasHeaders": true
   },
-  "system": true,
-  "isServerPlugin": true,
   "implementationType": "http",
   "outputType": "render_markdown"
 }
